@@ -1,6 +1,6 @@
 # React app for converting uploaded images to PDF
 
-This project is a non TypeScript version of [pixochi`s](https://github.com/pixochi/pdf-from-images-react-app)pdf-from-images-react-app.
+This project is a non TypeScript version of [pixochi`s] (https://github.com/pixochi/pdf-from-images-react-app)pdf-from-images-react-app.
 
 Read more about the original app: [Generating PDF from Images on the Client-side With React](https://jakub-kozak.medium.com/generating-pdf-from-images-on-the-client-side-with-react-a971b61de28c).
 
